@@ -1,16 +1,38 @@
-### Hi there 👋
-
-<!--
-**bradensawatsky/bradensawatsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+  </br>
+  🏠 <b>Vancouver, BC</b>
+  👨‍💻 <b>Full Stack Web Engineer</b>
+  👨 <b>23yo & He/Him<b>
+  📫 <a href="business@bradensawatsky.ca">business@bradensawatsky.ca</a>
+  💼 <a href="https://www.linkedin.com/in/braden-sawatsky">https://www.linkedin.com/in/braden-sawatsky</a>
+  
+  I am passionate about all compsci topics, including but not limited to: web, infrastructure, security, ai and iot. 
+  Additionally, I consider myself a life long learner who is always open to new and exciting opportunities.
+ 
+  <hr>
+  
+  <b>💖 Loves</b>
+    - Systematically designing web applications
+    - Solving unique problems with cutting edge solutions
+    - Writing infrastructure as code
+    - Building end to end testing
+    - Optimizing for the miliseconds
+  
+  <hr>
+  <b>🧬 <i>Preferred</i> Technologies</b>
+    - Amazon Web Services
+    - Laravel
+    - ExpressJS
+    - VueJS
+    - React
+    - Svelte
+    - Typescript
+    - Flutter
+    - Rocket
+    - Tensorflow
+    - Pandas
+  </br>
+  <hr>
+  * Private contributions are hidden to allow for greater visiblity of public and portfolio works
+  </br>
+</pre>
