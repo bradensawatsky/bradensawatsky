@@ -2,7 +2,7 @@
   </br>
   🏠 <b>Vancouver, BC</b>
   👨‍💻 <b>Full Stack Web Engineer</b>
-  👨 <b>23yo & He/Him<b>
+  👨 <b>24yo & He/Him<b>
   📫 <a href="business@bradensawatsky.ca">business@bradensawatsky.ca</a>
   💼 <a href="https://www.linkedin.com/in/braden-sawatsky">https://www.linkedin.com/in/braden-sawatsky</a>
   
