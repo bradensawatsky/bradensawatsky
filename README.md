@@ -24,6 +24,7 @@
     - Laravel
     - ExpressJS
     - VueJS
+    - Ruby on Rails
     - React
     - Svelte
     - Typescript
