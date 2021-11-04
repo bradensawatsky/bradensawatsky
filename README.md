@@ -33,7 +33,5 @@
     - Tensorflow
     - Pandas
   </br>
-  <hr>
-  * Private contributions are hidden to allow for greater visiblity of public and portfolio works
   </br>
 </pre>
