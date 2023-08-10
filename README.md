@@ -1,9 +1,9 @@
 <pre>
   </br>
   🏠 <b>Vancouver, BC</b>
-  👨‍💻 <b>Full Stack Web Engineer</b>
+  👨‍💻 <b>Senior Web Engineer</b>
   👨 <b>25yo & He/Him<b>
-  📫 <a href="business@bradensawatsky.ca">business@bradensawatsky.ca</a>
+  📫 <a href="braden@expedite.dev">braden@expedite.dev</a>
   💼 <a href="https://www.linkedin.com/in/braden-sawatsky">https://www.linkedin.com/in/braden-sawatsky</a>
   
   I am passionate about all compsci topics, including but not limited to: web, infrastructure, security, ai and iot. 
@@ -11,27 +11,36 @@
  
   <hr>
   
-  <b>💖 Loves</b>
-    - Systematically designing web applications
-    - Solving unique problems with cutting edge solutions
-    - Writing infrastructure as code
-    - Building end to end testing
-    - Optimizing for the miliseconds
+  My daily responsibilities include:
+    - Client relations
+    - Static & SPA Front-end
+    - Backend design & development
+    - Infrastructure design & implementation
+    - Database design
+    - HTTPS/GraphQL API design
+    - Oauth Integrations
+    - E2E testing
+    - Accessibility
+    - SEO
+    - Security Audits
+    - User stories
+    - Technical documentation
   
   <hr>
   <b>🧬 <i>Preferred</i> Technologies</b>
-    - Amazon Web Services
     - Laravel
-    - ExpressJS
-    - VueJS
+    - Livewire
+    - FilamentPHP
+    - React/React Native
     - Ruby on Rails
-    - React
-    - Svelte
+    - Rust
     - Typescript
-    - Flutter
-    - Rocket
     - Tensorflow
     - Pandas
+    - AWS
+    - Terraform
+    - Packer
+    - Docker
   </br>
   </br>
 </pre>
