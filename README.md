@@ -28,19 +28,21 @@
   
   <hr>
   <b>🧬 <i>Preferred</i> Technologies</b>
-    - Laravel
-    - Livewire
-    - FilamentPHP
-    - React/React Native
-    - Ruby on Rails
-    - Rust
-    - Typescript
-    - Tensorflow
-    - Pandas
-    - AWS
-    - Terraform
-    - Packer
-    - Docker
+     - Laravel
+     - Livewire
+     - FilamentPHP
+     - Statamic
+     - Wordpress
+     - CraftCMS
+     - React/React Native
+     - Ruby on Rails
+     - Rust
+     - Typescript
+     - Python
+     - AWS
+     - Terraform
+     - Packer
+     - Docker
   </br>
   </br>
 </pre>
